@@ -13,7 +13,7 @@ npm start
 
 
 
-All News #Live-Russian-News-API
+All Over The World News #Live-Russian-News-API
 https://russian-news-api.herokuapp.com/news
 
 All Business News #Live-Russian-News-API
@@ -22,14 +22,14 @@ https://russian-news-api.herokuapp.com/news/business
 All Top Trending News #Live-Russian-News-API
 https://russian-news-api.herokuapp.com/news/news
 
-All News #Live-Russian-News-API
+All Climate Related News #Live-Russian-News-API
 https://russian-news-api.herokuapp.com/news/climate
 
-All Arts Related News #Live-Russian-News-API
+All Arts And Life Related News #Live-Russian-News-API
 https://russian-news-api.herokuapp.com/news/arts
 
 
-All Public Opinion Related News #Live-Russian-News-API
+All Public Related News #Live-Russian-News-API
 https://russian-news-api.herokuapp.com/news/opinion
 
 
@@ -37,7 +37,7 @@ All Indepth Russia Related News #Live-Russian-News-API
 https://russian-news-api.herokuapp.com/news/indepth
 
 All  Russia Related News #Live-Russian-News-API
-https://russian-news-api.herokuapp.com/news/indepth
+https://russian-news-api.herokuapp.com/news/russia
 
 
 ![Russian News Api](https://user-images.githubusercontent.com/51543360/155270167-d378cbb3-5e1a-4d75-bbad-a804783a4be5.png)
