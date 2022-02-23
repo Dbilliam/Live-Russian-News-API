@@ -11,6 +11,12 @@ npm install
 npm start
 
 
+I just published Russian News API on RapidAPI. Check it out!
+
+[<img src="https://user-images.githubusercontent.com/51543360/155282341-7205fa48-c8a9-4149-9d86-2d91efcd7c7f.png" />](https://rapidapi.com/rakeshbarman08/api/russian-news)
+
+
+
 
 
 All Over The World News #Live-Russian-News-API
